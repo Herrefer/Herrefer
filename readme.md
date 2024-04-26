@@ -17,6 +17,9 @@ Fuí jugador de videojuegos desde pequeño y de adolescente empecé adentrandome
 | ✔Mongoose       | ✔Express-validator | ✔Json-Web-Token |
 | ✔FS-extra       |                    |                  |
 
+### Herramientas de Deploy
+
+
 ## Mis proyectos
 
 1. Ambiente Bohemio
