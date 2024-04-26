@@ -18,7 +18,7 @@ Fuí jugador de videojuegos desde pequeño y de adolescente empecé adentrandome
 | ✔FS-extra       |                    |                  |
 
 ### Herramientas de Deploy 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/2560px-Vercel_logo_black.svg.png" width="150" height="75" alt="Vercel">
+<img src="https://www.diversetalent.ai/wp-content/uploads/2024/03/vercel.jpg" width="150" height="75" alt="Vercel">
 
 
 ## Mis proyectos
