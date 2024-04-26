@@ -18,7 +18,7 @@ Fuí jugador de videojuegos desde pequeño y de adolescente empecé adentrandome
 | ✔FS-extra       |                    |                  |
 
 ### Herramientas de Deploy 
-<img src="https://www.diversetalent.ai/wp-content/uploads/2024/03/vercel.jpg" width="150" height="75" alt="Vercel">
+<img src="https://www.diversetalent.ai/wp-content/uploads/2024/03/vercel.jpg" width="150" height="75" alt="Vercel">  <img src="https://www.adictosaltrabajo.com/wp-content/uploads/2020/12/netlify.jpeg" width="150" height="75" alt="Vercel">
 
 
 ## Mis proyectos
