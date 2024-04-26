@@ -10,11 +10,18 @@ Fuí jugador de videojuegos desde pequeño y de adolescente empecé adentrandome
 
 ### Otras librerías que manejo
 * ✔Reac-Hook-Form      
-* ✔Json-server           ✔Cors
-✔Mongoose            ✔Express-validator     ✔Dotenv
-✔Nodemailer          ✔MercadoPago           ✔Json-Web-Token   
-✔FS-extra            ✔React-Router          ✔B-Crypt
-✔SweetAlert          
+* ✔Json-server
+* ✔Cors
+* ✔Mongoose
+* ✔Express-validator
+* ✔Dotenv
+* ✔Nodemailer
+* ✔MercadoPago
+* ✔Json-Web-Token
+* ✔FS-extra
+* ✔React-Router
+* ✔B-Crypt
+* ✔SweetAlert          
    
 
 
