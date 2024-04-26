@@ -14,13 +14,7 @@ Fuí jugador de videojuegos desde pequeño y de adolescente empecé adentrandome
 | ✔Dotenv         | ✔Nodemailer        | ✔MercadoPago    |
 | ✔React-Router   | ✔B-Crypt           | ✔SweetAlert     |
 | ✔Mongoose       | ✔Express-validator | ✔Json-Web-Token |
-| ✔FS-extra       |                    |                 |
-* ✔MercadoPago
-* ✔Json-Web-Token
-* ✔FS-extra
-* ✔React-Router
-* ✔B-Crypt
-* ✔SweetAlert          
+| ✔FS-extra       |                    |                 |       
    
 
 
