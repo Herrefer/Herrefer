@@ -16,6 +16,12 @@ Fuí jugador de videojuegos desde pequeño y de adolescente empecé adentrandome
 | ✔React-Router   | ✔B-Crypt           | ✔SweetAlert     |
 | ✔Mongoose       | ✔Express-validator | ✔Json-Web-Token |
 | ✔FS-extra       |                    |                  |
-   
+
+## Mis proyectos
+
+1. Ambiente Bohemio
+    * Página de un restaurante ficticio que cuenta, en pocas palabras, con funcionalidades CRUD, Login, funcionalidades para usuario y administrador y base de datos.
+          * Revisa la página : [Ambiente Bohemio](https://ambiente-bohemio-restaurante.netlify.app/)
+          * Revisa los repositorios : [Frontend](https://github.com/brunomry/frontendProyectoFinal_RollingCode) y [Backend](https://github.com/brunomry/backendProyectoFinal_RollingCode)
 
 
