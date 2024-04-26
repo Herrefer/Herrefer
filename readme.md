@@ -5,4 +5,4 @@ Fuí jugador de videojuegos desde pequeño y de adolescente empecé adentrandome
 
 ## Conocimientos en desarrollo Front/Back end - MERN - Librerías relacionadas
 ### Herramientas que uso habitualmente
-[Bootstrap](https://getbootstrap.com/)
+[Bootstrap](https://getbootstrap.com/)(https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)
