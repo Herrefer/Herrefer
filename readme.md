@@ -17,7 +17,8 @@ Fuí jugador de videojuegos desde pequeño y de adolescente empecé adentrandome
 | ✔Mongoose       | ✔Express-validator | ✔Json-Web-Token |
 | ✔FS-extra       |                    |                  |
 
-### Herramientas de Deploy
+### Herramientas de Deploy 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.diversetalent.ai%2Fvercel-powerful-seamless-scalable%2F&psig=AOvVaw1M6sBi3gQK6yahqwWxWbiP&ust=1714235409113000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDkz4um4IUDFQAAAAAdAAAAABAE" width="150" height="75" alt="Vercel">
 
 
 ## Mis proyectos
